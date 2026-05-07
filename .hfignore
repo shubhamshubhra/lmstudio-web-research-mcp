@@ -16,3 +16,4 @@ htmlcov/
 dist/
 build/
 .git/
+.hf_upload/
